@@ -1,4 +1,4 @@
-# Ex. No: 15E - Build and Evaluate an Expression Tree
+# Ex. No: 15C - Build and Evaluate an Expression Tree
 
 ## AIM:
 To write a Python program to build and evaluate the given Expression tree.
